@@ -1,6 +1,6 @@
 <h1>Einkaufsliste:</h1>
 
-<p>Waffeln</p>
+Waffeln
 
 Reis
 
